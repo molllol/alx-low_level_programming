@@ -14,10 +14,10 @@ int main(void)
   float f;
 
   /*Size of the variables*/
-  printf("Size of char: %lu bytes\n", sizeof(c));
-  printf("Size of int: %lu bytes\n", sizeof(i));
-  printf("Size of long: %lu bytes\n", sizeof(l));
-  printf("Size of double: %lu bytes\n", sizeof(d));
-  printf("Size of float: %lu bytes\n", sizeof(f));
+  printf("Size of char: %lu byte(s)\n", sizeof(c));
+  printf("Size of int: %lu byte(s)\n", sizeof(i));
+  printf("Size of long: %lu byte(s)\n", sizeof(l));
+  printf("Size of double: %lu byte(s)\n", sizeof(d));
+  printf("Size of float: %lu byte(s)\n", sizeof(f));
   retrun (0);
 }

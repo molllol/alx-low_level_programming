@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print the sizes of the different data types
+ * main - print the size of different data types
  *
  * Return: Always 0 (Success)
  */
